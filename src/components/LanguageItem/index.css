@@ -1,0 +1,24 @@
+.butt {
+  height: 40px;
+  width: 110px;
+  border: 1px solid #db1c48;
+  border-radius: 15px;
+  background-color: transparent;
+  color: #db1c48;
+  font-family: 'Roboto';
+}
+
+.li-item {
+  margin: 20px;
+}
+
+.cls {
+  background-color: #db1c48;
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .butt {
+    width: 90px;
+  }
+}
